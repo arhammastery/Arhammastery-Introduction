@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arhamraza112
 - 🌱 I’m currently learning coding
-- 📫 Project: https://front.arhamatlas.online/
+- 📫 Project: https://arhamatlas.online/
 
 <!---
 arhamraza112/arhamraza112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
