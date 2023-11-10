@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arham Mastery, as described, is a one-year-experienced web developer with proficiency in HTML, CSS, JavaScript, and React.
+- 👋 Hi, I’m Arham Mastery, as described, is a five-year-experienced web developer with proficiency in HTML, CSS, JavaScript, and React.
 - 🌱 I’m currently learning coding
 - 📫 Project: https://www.arhammastery.dev
 
